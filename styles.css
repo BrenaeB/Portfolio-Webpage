@@ -65,17 +65,15 @@ h3{
 .briefbio{
     display: flex;
     justify-content: center;
-    position:center;
     color:#E076B8;
-    top:100%;
-    transform: translateX(-50%);
+    top: 100%;
     border: 1px solid #000;
-    border-radius:8px;
+    border-radius: 8px;
     background-color: #E7CCDD;
     padding:10px;
     z-index: 1000;
     margin-right: 50px;
-    margin-left:50px;
+    margin-left: 50px;
 }
 .Projects ul {
     display: flex;
